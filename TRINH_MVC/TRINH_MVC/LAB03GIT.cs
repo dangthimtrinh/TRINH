@@ -5,7 +5,7 @@ using System.Web;
 
 namespace TRINH_MVC
 {
-    public class LAB03GIT
+    public static class LAB03GIT
     {
     }
 }
